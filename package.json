@@ -1,0 +1,22 @@
+{
+  "name": "nodetabledisplaysearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lakiduck/nodetabledisplaysearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lakiduck/nodetabledisplaysearch/issues"
+  },
+  "homepage": "https://github.com/Lakiduck/nodetabledisplaysearch#readme",
+  "dependencies": {
+    "node": "^10.7.0"
+  }
+}
