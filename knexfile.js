@@ -11,7 +11,7 @@ var knex = require('knex')({
 
 module.exports = {
 
-  client: 'pg',
+  client: 'mysql',
   connection: process.env.localhost || { user: 'root', database: 'DB' }
 
 };
