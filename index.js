@@ -1,6 +1,6 @@
 var express = require('express');
 var app = express();
-var mysql = require('mysql');
+// var mysql = require('mysql');
 /*app.use('/static', express.static(path.join(__dirname, '/view')));*/
 
 
